@@ -1,5 +1,4 @@
 function pageCount(n, p) {
-  // Write your code here
   // check if p is 1 or p is equal to n which is zero pages turned
   if (p === n || p === 1) {
     return 0;
